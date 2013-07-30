@@ -1,3 +1,0 @@
-[submodule "lib/polymer"]
-	path = lib/polymer
-	url = git://github.com/Polymer/polymer-all.git

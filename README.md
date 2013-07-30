@@ -10,6 +10,8 @@ Dupda is web development tool for beginner.
 
 Our goal is creating fast web service. and easy to manage without pre-knowledge.
 
+Dupda target modern browser. 
+
 It uses below open-projects.
 
 - Client Side : [polymer], [Bootstrap] with [jQuery]

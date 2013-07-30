@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Dupda IDE</title>
+
+
+    <!-- Polymer-->
+    <script src="lib/polymer/polymer/polymer.js"></script>
+    <link rel="import" href="assets/html/dupda-leftmenu.html">
+    <link rel="import" href="assets/html/dupda-rightmenu.html">
+    <link rel="import" href="assets/html/dupda-centerbody.html">
+
+    <!-- Bootstrap -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <!-- JavaScript plugins (requires jQuery) -->
+    <script src="http://code.jquery.com/jquery.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="lib/bootstrap/js/bootstrap.min.js"></script>
+
+    
+  </head>
+
+  <body>
+
+
+    <div class="row">
+
+      <div class="col-lg-1">
+        <dupda-leftmenu></dupda-leftmenu>
+      </div>
+      <div class="col-lg-10">
+        <dupda-centerbody></dupda-centerbody>
+      </div>
+      <div class="col-lg-1">
+        <dupda-rightmenu></dupda-rightmenu>
+      </div>
+
+    </div>
+
+  </body>
+</html>
