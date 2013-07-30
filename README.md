@@ -14,12 +14,12 @@ Dupda target modern browser.
 
 It uses below open-projects.
 
-- Client Side : [polymer], [Bootstrap] with [jQuery]
+- Client Side : [Knockout.js], [Bootstrap] with [jQuery]
 - Server Side : [Vert.x], [Yoke]
 - DB : [Redis(for static resource)], [MongoDB(for big data set)]
 
-[Polymer]:http://www.polymer-project.org/
 [jQuery]:http://jquery.com/
+[Knockout.js]:http://knockoutjs.com/
 [Bootstrap]:http://getbootstrap.com/
 [Vert.x]:http://vertx.io/
 [Yoke]:http://pmlopes.github.io/yoke/
