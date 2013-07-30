@@ -25,6 +25,20 @@ It uses below open-projects.
 [MongoDB(for big data set)]:http://www.mongodb.org/
 
 
+How To Run
+-----
+
+**Download from github**
+
+```bash
+git clone git://github.com/dupda/dupda.git --recursive
+
+cd dupda
+#TODO : Auto Configure
+open dupda.html
+```
+
+
 Road Map
 -----
 
